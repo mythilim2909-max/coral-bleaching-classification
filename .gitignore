@@ -1,0 +1,5 @@
+my_bubble/
+data/raw/
+__pycache__/
+*.pyc
+data/processed/images.zip
