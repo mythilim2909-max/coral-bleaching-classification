@@ -1,6 +1,6 @@
 # Coral Bleaching Detection with Environmental Context
 
-Does adding the sea-temperature history of a reef site improve coral-bleaching classification from photographs?
+Does adding the **sea-temperature history** of a reef site improve coral-bleaching classification from photographs?
 
 This project compares three setups on real NOAA reef imagery from Hawaii:
 
